@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I’m Keerthan M</h1>
 
 <p align="center">
+🔍 Interested in AI-powered systems<br>
 🎓 Computer Science Engineering (Data Science) student<br>
 🤖 Working on AI, Machine Learning, and Full-Stack Development<br>
-🔍 Interested in AI-powered systems<br>
 🚀 Building projects using React, FastAPI, PyTorch, and modern AI tools
 </p>
 
