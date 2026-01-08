@@ -1,5 +1,12 @@
-###<p align="center">👋 Hi, I’m Keerthan M</p>
-<p align="center">🎓 Computer Science Engineering (Data Science) student<br>🤖 Working on AI, Machine Learning, and Full-Stack Development<br>🔍 Interested in AI-powered systems.<br>🚀 Building projects using React, FastAPI, PyTorch, and modern AI tools</p>
+<h1 align="center">👋 Hi, I’m Keerthan M</h1>
+
+<p align="center">
+🎓 Computer Science Engineering (Data Science) student<br>
+🤖 Working on AI, Machine Learning, and Full-Stack Development<br>
+🔍 Interested in AI-powered systems<br>
+🚀 Building projects using React, FastAPI, PyTorch, and modern AI tools
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/keerthan-m-kulal/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/keerthan__kulal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keerthankulal17@gmail.com) 
